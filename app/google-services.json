@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251832085801",
+    "firebase_url": "https://virtualid-fc67a.firebaseio.com",
+    "project_id": "virtualid-fc67a",
+    "storage_bucket": "virtualid-fc67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251832085801:android:ae9261ab77a6ce60",
+        "android_client_info": {
+          "package_name": "com.album.kaktus.virtualid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251832085801-d788ce0fvc8io6n2e2na85uja41pd7ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9p0ZYx47N4eofqUWLljK19dtHiQLEAPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251832085801-d788ce0fvc8io6n2e2na85uja41pd7ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
